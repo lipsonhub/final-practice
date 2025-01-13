@@ -87,3 +87,24 @@ section-description{
   border-radius:5px;
   box-shadow:0px 6px 50px 0px #8c8a86;
 }
+
+/* Dr-muhaamud-adout */
+
+.about{
+  background-color: #FFFFFF;
+
+  padding:48px 24px;
+  height:256;
+  width:1260;
+  margin-top:30px;
+  
+  
+}
+.about-description{
+  text-align:start;
+  
+}
+
+  
+  
+
